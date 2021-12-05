@@ -1,0 +1,102 @@
+html
+{
+scroll-behavior: smooth;
+}
+#wrapper
+{
+width:100vw;
+height:100vh;
+/* margin-top:-100px; */
+margin:0 auto; 
+font-family: 'Lobster',cursive;
+//background:#221;
+
+}
+
+
+
+/*div
+{
+ margin-top:-20px; 
+}*/
+
+h2{
+color:pink;
+font-size:5.5vw;
+text-align:center;
+/* top:100px; */
+}
+
+#content
+{
+font-weight:;
+text-align:center;
+color:rgb(63, 3, 3);
+width:70vw;
+height:100vw;
+margin:0 auto;
+font-size:2.5vw;
+line-spacing:20px;
+font-family: 'Dancing Script', cursive;
+}
+#about
+{
+
+height:120vh;
+background-color: cadetblue;
+/*background:url(images/about1.jpg);*/
+}
+#Education
+{
+height:100vh;
+background-color: coral;
+/*background:url(images/about1.jpg);*/
+}
+#skills
+{
+height:100vh;
+background-color: crimson;
+/*background:url(images/about1.jpg);*/
+}
+#projects
+{
+height:100vh;
+background-color: darkseagreen;
+/*background:url(images/projects.jpg);*/
+
+}
+#Achievements
+{
+height:100vh;
+background-color:firebrick;
+/*background:url(images/achievement.jpg);*/
+
+}
+#Contact
+{
+height:80vh;
+background-color: cadetblue;
+/*background:url(images/resume.jpg);*/
+
+}
+#Contact p
+{
+font-weight:bold;
+}
+#Contact a
+{
+color:rgb(104, 98, 98);
+text-decoration:none;
+}
+#Contact img
+{
+height:6vh;
+width:3vw;
+}
+
+
+@font-face { font-family: 'Dancing Script'; font-style: normal; font-weight: 350; src: url('fonts/dancing-script-v11-latin-regular.eot'); src: local('Dancing Script Regular'), local('DancingScript-Regular'), url('fonts/dancing-script-v11-latin-regular.eot?#iefix') format('embedded-opentype'), url('fonts/dancing-script-v11-latin-regular.woff2') format('woff2'), url('fonts/dancing-script-v11-latin-regular.woff') format('woff'), url('fonts/dancing-script-v11-latin-regular.ttf') format('truetype'), url('fonts/dancing-script-v11-latin-regular.svg#DancingScript') format('svg'); }
+
+
+@font-face { font-family: 'Lobster'; font-style: normal; font-weight: 350; src: url('fonts/lobster-v22-latin-regular.eot'); src: local('Lobster Regular'), local('Lobster-Regular'), url('fonts/lobster-v22-latin-regular.eot?#iefix') format('embedded-opentype'), url('fonts/lobster-v22-latin-regular.woff2') format('woff2'), url('fonts/lobster-v22-latin-regular.woff') format('woff'), url('fonts/lobster-v22-latin-regular.ttf') format('truetype'), url('fonts/lobster-v22-latin-regular.svg#Lobster') format('svg'); }
+
